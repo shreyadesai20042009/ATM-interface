@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-A simple **ATM Interface project in Java** that simulates basic banking operations such as deposit, withdrawal, balance checking and account interaction through a console-based menu system.  
+A simple ATM Interface project in Java that simulates basic banking operations such as deposit, withdrawal, balance checking and account interaction through a console-based menu system.  
 This project demonstrates core Object-Oriented Programming concepts in Java including classes, methods, user input, and control flow.
 
 ---
