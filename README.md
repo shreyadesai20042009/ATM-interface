@@ -38,7 +38,7 @@ ATM-interface/
 
 ## 🛠 Tech Stack
 
-- 🔹 Java (Core)  
+- 🔹 Java (Core)
 - 🔹 Scanner (for user input)  
 - 🔹 Object-Oriented Programming (OOP)  
 
