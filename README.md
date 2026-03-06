@@ -14,7 +14,7 @@ This project demonstrates core Object-Oriented Programming concepts in Java incl
 This ATM Interface project allows a user to:
 
 - Create a bank account with initial balance  
-- Deposit money  
+- Deposit money
 - Withdraw money  
 - Display current balance  
 - Exit the system  
