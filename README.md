@@ -92,16 +92,3 @@ Enter your choice: 3
 Enter amount to withdraw: 200
 Withdrawal successful!
 Updated Balance: 1300.00
-📌 Learning Outcomes
-
-By completing this project, you will learn:
-
-Java syntax and structure
-
-Handling user input with Scanner
-
-Loops and conditional statements
-
-Implementing functions in a class
-
-Basic financial logic simulation
